@@ -1,4 +1,4 @@
-# 🦿 Bilateral Exoskeleton Gait Rehabilitation System
+# Bilateral Exoskeleton Gait Rehabilitation System
 
 > An ESP32-based exoskeleton rehabilitation controller with real-time WebSocket communication and a web-based control panel for bilateral gait pattern playback.
 
